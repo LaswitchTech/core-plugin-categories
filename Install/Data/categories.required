@@ -220,6 +220,76 @@
         "targetTable": "products"
     },
     {
+        "id": 23,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-08-06 07:28:39",
+        "owner": "demo",
+        "name": "General",
+        "icon": "circle",
+        "isShown": 1,
+        "targetTable": "vcards.role"
+    },
+    {
+        "id": 24,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-08-06 07:28:42",
+        "owner": "demo",
+        "name": "Billing",
+        "icon": "circle",
+        "isShown": 1,
+        "targetTable": "vcards.role"
+    },
+    {
+        "id": 25,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-08-06 07:28:44",
+        "owner": "demo",
+        "name": "Documents",
+        "icon": "circle",
+        "isShown": 1,
+        "targetTable": "vcards.role"
+    },
+    {
+        "id": 26,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-08-06 07:28:46",
+        "owner": "demo",
+        "name": "Delegation",
+        "icon": "circle",
+        "isShown": 1,
+        "targetTable": "vcards.role"
+    },
+    {
+        "id": 27,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-08-06 07:28:49",
+        "owner": "demo",
+        "name": "Signatory",
+        "icon": "circle",
+        "isShown": 1,
+        "targetTable": "vcards.role"
+    },
+    {
+        "id": 28,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-08-06 07:28:52",
+        "owner": "demo",
+        "name": "Administrator",
+        "icon": "circle",
+        "isShown": 1,
+        "targetTable": "vcards.role"
+    },
+    {
+        "id": 29,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-08-06 07:28:56",
+        "owner": "demo",
+        "name": "Owner",
+        "icon": "circle",
+        "isShown": 1,
+        "targetTable": "vcards.role"
+    },
+    {
         "id": 9999,
         "created": "2025-04-07 15:10:37",
         "modified": "2025-04-07 15:10:37",
