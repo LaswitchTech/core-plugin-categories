@@ -290,6 +290,66 @@
         "targetTable": "vcards.role"
     },
     {
+        "id": 30,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-10-15 09:42:00",
+        "owner": "demo",
+        "name": "Importer",
+        "icon": "building-check",
+        "isShown": 1,
+        "targetTable": "processes"
+    },
+    {
+        "id": 31,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-10-15 09:42:01",
+        "owner": "demo",
+        "name": "Importer",
+        "icon": "building-check",
+        "isShown": 1,
+        "targetTable": "tasks"
+    },
+    {
+        "id": 32,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-10-15 09:41:55",
+        "owner": "demo",
+        "name": "Importer",
+        "icon": "building-check",
+        "isShown": 0,
+        "targetTable": "events"
+    },
+    {
+        "id": 33,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-10-15 10:50:21",
+        "owner": "demo",
+        "name": "Assessment",
+        "icon": "receipt",
+        "isShown": 1,
+        "targetTable": "processes"
+    },
+    {
+        "id": 34,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-10-15 10:50:24",
+        "owner": "demo",
+        "name": "Assessment",
+        "icon": "receipt",
+        "isShown": 1,
+        "targetTable": "tasks"
+    },
+    {
+        "id": 35,
+        "created": "2025-04-07 15:10:37",
+        "modified": "2025-10-15 10:50:28",
+        "owner": "demo",
+        "name": "Assessment",
+        "icon": "receipt",
+        "isShown": 0,
+        "targetTable": "events"
+    },
+    {
         "id": 9999,
         "created": "2025-04-07 15:10:37",
         "modified": "2025-04-07 15:10:37",
